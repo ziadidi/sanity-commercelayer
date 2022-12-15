@@ -90,7 +90,7 @@
     "sanity-template": "^2.4.3"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^4.3.1",
+    "@netlify/plugin-nextjs": "4.29.3",
     "@sanity/cli": "^2.27.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/commit-analyzer": "^9.0.2",
